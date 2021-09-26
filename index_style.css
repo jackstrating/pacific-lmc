@@ -1,0 +1,23 @@
+.body {
+    background-color: #FFFFFF;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #666666;
+}
+
+.h1 {
+    line-height: 2;
+}
+
+.header {
+    color: #FFFFFF;
+    background-color: #000033;
+}
+
+
+navigation {
+    background-color: #90c7e3;
+}
+
+.location {
+    line-height: 0px;
+}
